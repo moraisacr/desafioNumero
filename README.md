@@ -1,4 +1,3 @@
-Prova de Programacao Mobile -Sol
 
 Qual é o número?
 
