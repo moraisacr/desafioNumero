@@ -1,6 +1,13 @@
+## Qual é o número?
 
-#Qual é o número?
+<div style="display: inline_block">
+  
+## Liguagem Utilizada<br>
+<img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+</div>
 
+<br><br>
 O problema consiste em receber um número através de uma requisição e implementar um jogo para acertar este número através de palpites. Ao errar um palpite, irá ser informado se
 o número obtido é maior ou menor do que o palpite feito.
 
