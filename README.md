@@ -13,6 +13,7 @@ A new Kotlin project.
 This project is a starting point for a Kotlin application.
 
 
-For help getting started with Kotlin, view our
-[online documentation]https://kotlinlang.org/docs/home.html, which offers tutorials,
+For help getting started with Kotlin, view our<br>
+[online documentation] https://kotlinlang.org/docs/home.html,<br>
+which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
